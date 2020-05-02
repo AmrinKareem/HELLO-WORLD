@@ -1,2 +1,2 @@
 # HELLO-WORLD
-A new repo
+I am new here. Wanted to stop by and say hello!
